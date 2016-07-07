@@ -1,0 +1,122 @@
+/*--Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+--*/
+/*--- reset code ---*/
+body{
+	padding:0;
+	margin:0;
+	background:#FFF;
+	height:100%;
+}
+body a{
+    transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-o-transition:0.5s all;
+	-ms-transition:0.5s all;
+}
+input[type="button"],input[type="submit"]{
+	transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-o-transition:0.5s all;
+	-ms-transition:0.5s all;
+}
+h1,h2,h3,h4,h5,h6{
+	margin:0;	
+	padding:0;
+}	
+p{
+	margin:0;
+}
+ul{
+	margin:0;
+	padding:0;
+}
+label{
+	margin:0;
+}
+button{
+	transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-o-transition:0.5s all;
+	-ms-transition:0.5s all;
+}
+/*--- end reset code ---*/
+
+/*-- nav slide animation --*/
+.slideanim {visibility:hidden;}
+.slide {
+    /* The name of the animation */
+    animation-name: slide;
+    -webkit-animation-name: slide; 
+    /* The duration of the animation */
+    animation-duration: 1s; 
+    -webkit-animation-duration: 1s;
+    /* Make the element visible */
+    visibility: visible; 
+}
+
+/* Go from 0% to 100% opacity (see-through) and specify the percentage from when to slide in the element along the Y-axis */
+@keyframes slide {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateY(70%);
+    } 
+    100% {
+        opacity: 1;
+        -webkit-transform: translateY(0%);
+    } 
+}
+@-webkit-keyframes slide {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateY(70%);
+    } 
+    100% {
+        opacity: 1;
+        -webkit-transform: translateY(0%);
+    }
+}
+/*-- /nav slide animation --*/
+/*-- banner --*/ 
+.navbar-inverse	{
+	background-color: rgba(0,0,0,.25)!important;
+	border-color:transparent;
+}
+a.navbar-brand {
+	font-family: 'Varela Round', sans-serif;
+}
+.navbar-nav {
+	font-size: 17px;
+}
+.navbar-inverse .navbar-nav>li>a {
+	font-family: 'Varela Round', sans-serif;
+	color:black;
+}
+.navbar-inverse {
+	background-color:rgba(255, 255, 255, 0.75)!important;
+}
+.navbar-nav>li:hover {
+	background-color:#000;
+}
+.a {
+	background-size: 100%;
+	padding-top: 300%;
+	width: 100%;
+	background-image: url("../images/p_1.png");
+	background-repeat:no-repeat;
+	position: relative;
+	color: white;
+}
+/*-- /banner --*/
+
+
+/*-- /Portfolio --*/
+
+
+
+
