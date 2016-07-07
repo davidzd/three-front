@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b91b7ee1-34b1-4565-8b64-7238ff368ba1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/us.html" afterPath="$PROJECT_DIR$/us.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4.html" afterPath="$PROJECT_DIR$/4.html" />
     </list>
     <ignored path="three_front.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -80,10 +80,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2.png" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/images/2.png">
           <provider selected="true" editor-type-id="images">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="636">
+              <caret line="59" column="49" selection-start-line="59" selection-start-column="49" selection-end-line="59" selection-end-column="49" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -102,16 +112,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="351">
               <caret line="75" column="17" selection-start-line="75" selection-start-column="17" selection-end-line="75" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="12.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -156,7 +156,6 @@
         <option value="$PROJECT_DIR$/3.html" />
         <option value="$PROJECT_DIR$/css/3.css" />
         <option value="$PROJECT_DIR$/css/4.css" />
-        <option value="$PROJECT_DIR$/4.html" />
         <option value="$PROJECT_DIR$/8.html" />
         <option value="$PROJECT_DIR$/5.html" />
         <option value="$PROJECT_DIR$/6.html" />
@@ -167,6 +166,7 @@
         <option value="$PROJECT_DIR$/10.html" />
         <option value="$PROJECT_DIR$/12.html" />
         <option value="$PROJECT_DIR$/us.html" />
+        <option value="$PROJECT_DIR$/4.html" />
       </list>
     </option>
   </component>
@@ -284,7 +284,7 @@
       <recent name="$PROJECT_DIR$/css" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.products.html">
+  <component name="RunManager" selected="JavaScript Debug.4.html">
     <configuration default="false" name="1.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/three_front/1.html">
       <method />
     </configuration>
@@ -362,8 +362,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.products.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.4.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.4.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.products.html" />
         <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.3.html" />
         <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.2.html" />
         <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.1.html" />
@@ -385,18 +385,18 @@
       <updated>1466993820926</updated>
       <workItem from="1466993822194" duration="20482000" />
       <workItem from="1467340945025" duration="17081000" />
-      <workItem from="1467886680325" duration="8827000" />
+      <workItem from="1467886680325" duration="9021000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46390000" />
+    <option name="totallyTimeSpent" value="46584000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15520833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15520833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -653,16 +653,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="35" selection-end-column="12" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/8.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -790,6 +780,14 @@
     <entry file="file://$PROJECT_DIR$/images/2.png">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="636">
+          <caret line="59" column="49" selection-start-line="59" selection-start-column="49" selection-end-line="59" selection-end-column="49" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
